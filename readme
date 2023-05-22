@@ -1,7 +1,2 @@
-echo "# projects" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/krischmi/projects.git
-git push -u origin main
+This repository includes a number of projects done during the Data Science Bootcamp of WBS Coding Scool in 2023 (solo or group work).
+Future projects will be also included
